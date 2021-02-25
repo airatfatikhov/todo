@@ -1,0 +1,58 @@
+.hr {
+    padding: 0;
+    height: 2px;
+    background-image: url("../img/line.PNG");
+    background-repeat: repeat-x;
+    background-color: red;
+    overflow: hidden;
+}
+
+div {
+    display: block;
+}
+
+.btn {
+    margin: 20px auto;
+    background-color: azure;
+}
+
+.emptyTarget, .emptyDescription, .emptyTimeInput, .emptyTimeClose {
+    display: none;
+    margin: 5px auto;
+    color: red;
+ }
+
+span {
+    display: block;
+     margin: 0 auto;
+ }
+
+ .msg {
+    margin: -30px auto;
+    color: red;
+}
+
+.loader {
+    display: block;
+    opacity: 0;
+}
+
+.loader img {
+    height: 10px;
+}
+
+#table {
+    display: block;
+}
+
+.edit, .remove {
+    margin: 0 auto;
+}
+
+.myChart {
+    background-color: black;
+}
+
+
+
+
